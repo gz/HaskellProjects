@@ -1,3 +1,7 @@
+module NextPrimeNumber 
+    (primes)
+where
+
 import System.Environment
 import System.Exit
 import System.IO
